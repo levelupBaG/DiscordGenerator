@@ -42,7 +42,7 @@ namespace DiscordGenerator
             Console.Write($"\nShow invalid gifts (yes/no) => ", purple);
             if (string.Compare(Console.ReadLine(), "yes", true) == 0)
                 displayinvalid = true;
-            Console.Write($"\nBypass rate limits (yes/no) => ", purple);
+            Console.Write($"Bypass rate limits (yes/no) => ", purple);
             if (string.Compare(Console.ReadLine(), "yes", true) == 0)
                 bypassratelimit = true;
             Console.Write($"Set webhook (optional) => ", purple);
