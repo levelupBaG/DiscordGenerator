@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111364000/185433376-d0540c0b-f634-4e44-b730-8f90bf71e7e0.png)
+![image](https://user-![DiscordGenerator](https://user-images.githubusercontent.com/111364000/185440037-1398a632-686c-4d43-b1c7-783487d538c1.png)
 
 # Discord Nitro Generator v1.0.0 - Generator for all types of nitro gifts
 
