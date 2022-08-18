@@ -2,6 +2,8 @@
 
 # Discord Nitro Generator v1.0.0 - Generator for all types of nitro gifts
 
+A free discord nitro generator capable of generating nitro & nitro classic monthly / yearly gifts
+
 ## Main Features:
 * Bypass rate limit - discord may ratelimit your ip after alot of requests
 * Send to webhook - sends valid gift links to your webhook
