@@ -2,19 +2,17 @@
 
 # Discord Nitro Generator v1.0.0 - Generator for all types of nitro gifts
 
-## Features:
-- Bypass rate limit
-- Send to webhook
-- Very fast validation checking
+## Main Features:
+* Bypass rate limit - discord may ratelimit your ip after alot of requests
+* Send to webhook - sends valid gift links to your webhook
+* Insane speed - validates nitro gifts at a fast speed
 
 ## Downloads
 Pre-Compiled: https://github.com/avianhere/DiscordGenerator/releases
 
 ## Changelog
 ### 1.0.0 (08/18/2022)
-* Added ratelimit bypasser
-* Added send gift to webhook
-* Added option to choose to display invalid gifts
+* Initial release
 
 ## Disclaimer
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
